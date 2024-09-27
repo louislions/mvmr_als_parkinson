@@ -1,0 +1,6 @@
+data*
+doc*
+output*
+.Renviron
+todo.txt
+scripts/SpD.r
