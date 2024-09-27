@@ -1,8 +1,6 @@
 packages = c('MRPRESSO', 'gsmr2')
 invisible(lapply(packages, library, character.only = TRUE))
 
-
-
 compute_gsmr <- function(dat) {
     # Get LD Matrix
     ld_matrix <- ld_matrix(dat$SNP,

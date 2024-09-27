@@ -1,0 +1,4 @@
+﻿method;exposure;nsnp;or;or_lci95;or_uci95
+Weighted median;Type 2 diabetes;67;0.94;0.86;1.03
+MR Egger;Type 2 diabetes;67;0.9;0.72;1.14
+Inverse variance weighted;Type 2 diabetes;67;0.93;0.87;1

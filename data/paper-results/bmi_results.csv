@@ -1,0 +1,6 @@
+method;exposure;nsnp;b;se;pval
+Simple median;Body mass index;96;-0.054;0.09;0.016
+Weighted median;Body mass index;96;-0.201;0.084;0.378
+Inverse variance weighted;Body mass index;96;-0.054;0.061;0.049
+MR Egger;Body mass index;96;-0.25;0.127;0.079
+MR Egger (intercept);Body mass index;96;0.007;0.004;0.049

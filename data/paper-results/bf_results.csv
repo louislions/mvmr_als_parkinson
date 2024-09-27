@@ -1,0 +1,6 @@
+method;nsnp;b;se;pval
+Simple median;11;-0.303;0.141;0.031
+Weighted median;11;-0.478;0.134;3.89E-04
+Inverse variance weighted;11;-0.405;0.112;3.25E-04
+MR Egger;11;1.536;0.397;1.23E-04
+MR Egger (intercept);11;0.044;0.015;0.003
